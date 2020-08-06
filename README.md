@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project uses pandas python to explore bikeshare data. Also calculate statistics and analyze data according to city month and days. 
 
 ### Files used
 Include the files used
