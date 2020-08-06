@@ -47,7 +47,7 @@ def get_filters():
         else:
             day = input('Enter Correct day: ').lower()
 
-    #return day
+    #return city, month, day
 
     print('-'*40)
     return city, month, day
