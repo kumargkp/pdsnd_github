@@ -1,5 +1,3 @@
-### Date created
-Include the date you created this project and README file.
 
 ### Udacity Bikeshare Project
 
@@ -7,8 +5,9 @@ Include the date you created this project and README file.
 This project uses pandas python to explore bikeshare data. Also calculate statistics and analyze data according to city month and days. 
 
 ### Files used
+bikeshare.py :- Main file to run this project.
+It contains dataset of three cities.
 chicago.csv
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+new_york_city.csv
+washington.csv
 
